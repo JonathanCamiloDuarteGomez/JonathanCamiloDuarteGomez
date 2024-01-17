@@ -1,6 +1,10 @@
 <h1 align="center">Hola,Soy Camilo Duarte 👋</h1>
-<img src="https://i.imgur.com/weNbhGZ.png">
-- 📫 How to reach me **camiloduarteg@gmail.com**
+<div align="center">
+  <img src="/assets/BannerP.png">
+</div>
+
+<br>
+📫 camiloduarteg@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
