@@ -38,7 +38,7 @@
 <td width="50%">
 <h3 align="center">Consumo de Api con Retrofit</h3>
 <div align="center">
-<a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank"><img src="app.png" width="150" alt="Subli App"></a>
+<a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank"><img src="AppRetro.jpeg" width="130" alt="AppRetro"></a>
 <p>
 <a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
