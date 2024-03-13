@@ -36,18 +36,18 @@
                                                                                       
 </td>       
 <td width="50%">
-<h3 align="center">Subli App</h3>
+<h3 align="center">Consumo de Api con Retrofit</h3>
 <div align="center">
 <a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank"><img src="app.png" width="150" alt="Subli App"></a>
 <p>
 <a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/watch?v=NU3LAAsj8YQ" target="_blank">
+<a href="https://youtu.be/7p6iVfdWdxM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Subly App es un proyecto de la materia desarrollo de software que fue desarrollado con el uso de metodologías Agiles, uniendo SCRUM y RUP. Este proyecto se realizó en grupo y en un tiempo de 4 meses. La organización y gestión se realizó con ayuda de la herramienta JIRA.</p>
+<p>Se consume una api con el fin de mostrar al usuario los datos de la misma por medio de un app movil que me permite aplicar filtros para saber cual es la fruta con más calorias y asi, realizado en Kotlin y Andorid Studio</p>
 </div>
 
                                                                                       
