@@ -1,6 +1,6 @@
-<h1 align="center">Hola,Soy Camilo Duarte 👋</h1>
+<h1 align="center">Hola,Soy Jonathan Duarte 👋</h1>
 <div align="center">
-  <img src="/assets/BannerP.png">
+  <img src="/appPricipal.png">
 </div>
 
 <br>
