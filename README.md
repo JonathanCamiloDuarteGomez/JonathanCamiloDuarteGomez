@@ -22,7 +22,7 @@
 <td width="50%">
 <h3 align="center">Subli App</h3>
 <div align="center">
-<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank"><img src="app.png" width="150" alt="Subli App"></a>
+<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank"><img src="homeApp.png" width="150" alt="Subli App"></a>
 <p>
 <a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
