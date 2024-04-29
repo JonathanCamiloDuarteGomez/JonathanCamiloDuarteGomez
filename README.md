@@ -62,7 +62,7 @@
 <div align="center">
 <a href="https://github.com/JonathanCamiloDuarteGomez/BD-Empleados.git" target="_blank"><img src="BDA_MER.png" width="250" alt="AppRetro"></a>
 <p>
-<a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank">
+<a href="https://github.com/JonathanCamiloDuarteGomez/BD-Empleados.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/7p6iVfdWdxM" target="_blank">
