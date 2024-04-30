@@ -9,7 +9,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonathancamiloduartegomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathancamiloduartegomez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbzT6o2enVruOWf7eDmDp8Q" target="_blank">
+  <img src="/youtube.png" alt="YouTube" height="30" width="30" ">
+</a>
 </p>
+
+
+
   📫 camiloduarteg@gmail.com
   <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -65,7 +71,7 @@
 <a href="https://github.com/JonathanCamiloDuarteGomez/BD-Empleados.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/7p6iVfdWdxM" target="_blank">
+<a href="https://youtu.be/01T7bB2CyDo" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
