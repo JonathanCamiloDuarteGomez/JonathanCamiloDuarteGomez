@@ -1,4 +1,4 @@
-<h1 align="center">Hola,Soy Jonathan Duarte 👋</h1>
+<h1 align="center">Bienvenido, Soy Jonathan Duarte 👋</h1>
 <div align="center">
   <img src="/appPricipal.png">
 </div>
