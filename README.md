@@ -28,7 +28,7 @@
  <td width="50%">
 	<h2 align="center">SUBLI APP</h2>
  <div align="center">
-	<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank"><img src="homeApp.png" width="150" alt="Subli App"></a>
+	<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank"><img src="homeApp.png" width="200" height="350" alt="Subli App"></a>
 	<p>
 	<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank">
 	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -45,7 +45,7 @@
 <td width="50%">
 <h2 align="center">CONSUMO DE API CON RETROFIT</h2>
 <div align="center">
-<a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank"><img src="AppRetro.jpeg" width="130" alt="AppRetro"></a>
+<a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank"><img src="AppRetro.jpeg" width="220"  height="440"alt="AppRetro"></a>
 <p>
 <a href="https://github.com/JonathanCamiloDuarteGomez/Consulta_De_Un_Servicio_Web_Con_Kotlin.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -66,7 +66,7 @@
 <td width="50%">
 <h2 align="center">BASE DE DATOS EMPLEADOS</h2>
 <div align="center">
-<a href="https://github.com/JonathanCamiloDuarteGomez/BD-Empleados.git" target="_blank"><img src="BDA_MER.png" width="250" alt="AppRetro"></a>
+<a href="https://github.com/JonathanCamiloDuarteGomez/BD-Empleados.git" target="_blank"><img src="BDA_MER.png" width="350"  height="450" alt="AppRetro"></a>
 <p>
 <a href="https://github.com/JonathanCamiloDuarteGomez/BD-Empleados.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -84,6 +84,29 @@
 
                                                                                       
 </td> 
+<td width="50%">
+<h2 align="center">Eco Recicla</h2>
+<div align="center">
+<a href="https://github.com/JonathanCamiloDuarteGomez/Eco_Recicla" target="_blank"><img src="Eco_Recicla.jpeg" width="250" height="450" alt="Eco_Recicla"></a>
+
+<p>
+<a href="https://github.com/JonathanCamiloDuarteGomez/Eco_Recicla" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/channel/UCbzT6o2enVruOWf7eDmDp8Q" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>
+  App móvil para Bogotá que permite a los usuarios notificar la acumulación de materiales reciclables. El vehículo más cercano de una microempresa de reciclaje recibe la alerta.
+  <br>
+  <b> Java y Andorid Studio </b>
+</p>
+</div>
+
+                                                                                      
+</td> 
+
 </tr>   
 
 
@@ -95,11 +118,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/jonathancamiloduartegomez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonathancamiloduartegomez&layout=compact&langs_count=8&theme=algolia"/>
-</a>
   <a href="https://github.com/jonathancamiloduartegomez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonathancamiloduartegomez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonathancamiloduartegomez&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
+  </a>
+  <a href="https://github.com/jonathancamiloduartegomez">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonathancamiloduartegomez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
-</p>
+
+
+
+
+
 
