@@ -93,7 +93,7 @@
 <a href="https://github.com/JonathanCamiloDuarteGomez/Eco_Recicla" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/channel/UCbzT6o2enVruOWf7eDmDp8Q" target="_blank">
+<a href="https://youtu.be/gKspavCwZrk" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
