@@ -25,21 +25,30 @@
 
 <table>
 <tr>
- <td width="50%">
-	<h2 align="center">SUBLI APP</h2>
- <div align="center">
-	<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank"><img src="homeApp.png" width="200" height="350" alt="Subli App"></a>
-	<p>
-	<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank">
-	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-	</a>
-	<a href="https://www.youtube.com/watch?v=NU3LAAsj8YQ" target="_blank">
-	<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-	</a>
-	</p>
-	<p>Subly App es un proyecto de la materia desarrollo de software que busca ayudar a una pequeña empresa de sublimación a interactuar de mejor manera con los clientes permitiendo     hacer pedidos por medio de una aplicacion movil desarrollada en java. Para este desarrollo se usaron  metodologías Agiles, uniendo <b>SCRUM</b> y <b>RUP</b>.Se realizó un      fuerte trabajo en <b>grupo</b>  en un tiempo de 4 meses y la organización y gestión fue con ayuda de la herramienta <b>Jira</b>.(respectivo versionamiento en <b>GitHub</b>)</p>
- </div>
+</td> 
+<td width="50%">
+<h2 align="center">Eco Recicla</h2>
+<div align="center">
+<a href="https://github.com/JonathanCamiloDuarteGomez/Eco_Recicla" target="_blank"><img src="Eco_Recicla.jpeg" width="250" height="450" alt="Eco_Recicla"></a>
+
+<p>
+<a href="https://github.com/JonathanCamiloDuarteGomez/Eco_Recicla" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/gKspavCwZrk" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>
+  App móvil para Bogotá que permite a los usuarios notificar la acumulación de materiales reciclables. El vehículo más cercano de una microempresa de reciclaje recibe la alerta.
+  <br>
+  <b> Java y Andorid Studio </b>
+</p>
+</div>
+
                                                                                       
+</td> 
+                                                                             
 </td> 
   
 <td width="50%">
@@ -81,31 +90,22 @@
   <b> MySQL Workbench. </b>
 </p>
 </div>
-
+ <td width="50%">
+	<h2 align="center">SUBLI APP</h2>
+ <div align="center">
+	<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank"><img src="homeApp.png" width="200" height="350" alt="Subli App"></a>
+	<p>
+	<a href="https://github.com/JonathanCamiloDuarteGomez/sub10.git" target="_blank">
+	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+	</a>
+	<a href="https://www.youtube.com/watch?v=NU3LAAsj8YQ" target="_blank">
+	<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+	</a>
+	</p>
+	<p>Subly App es un proyecto de la materia desarrollo de software que busca ayudar a una pequeña empresa de sublimación a interactuar de mejor manera con los clientes permitiendo     hacer pedidos por medio de una aplicacion movil desarrollada en java. Para este desarrollo se usaron  metodologías Agiles, uniendo <b>SCRUM</b> y <b>RUP</b>.Se realizó un      fuerte trabajo en <b>grupo</b>  en un tiempo de 4 meses y la organización y gestión fue con ayuda de la herramienta <b>Jira</b>.(respectivo versionamiento en <b>GitHub</b>)</p>
+ </div>
                                                                                       
-</td> 
-<td width="50%">
-<h2 align="center">Eco Recicla</h2>
-<div align="center">
-<a href="https://github.com/JonathanCamiloDuarteGomez/Eco_Recicla" target="_blank"><img src="Eco_Recicla.jpeg" width="250" height="450" alt="Eco_Recicla"></a>
 
-<p>
-<a href="https://github.com/JonathanCamiloDuarteGomez/Eco_Recicla" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/gKspavCwZrk" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>
-  App móvil para Bogotá que permite a los usuarios notificar la acumulación de materiales reciclables. El vehículo más cercano de una microempresa de reciclaje recibe la alerta.
-  <br>
-  <b> Java y Andorid Studio </b>
-</p>
-</div>
-
-                                                                                      
-</td> 
 
 </tr>   
 
